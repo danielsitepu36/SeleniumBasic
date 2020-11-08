@@ -1,0 +1,11 @@
+FIND ELEMENT:
+
+driver.find_element_
+
+by_id('id')                 id="loginForm"
+by_name('name')             name="username"
+by_Xpath('xpath')           //form[@id='loginForm']
+by_link_text('link')        href="continue.html"
+by_tag_name('tag')          h1, h2, p
+by_class_name('content')    class="content"
+
